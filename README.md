@@ -1,18 +1,17 @@
 # infomatic-pj
 Infomatic project 
 
-AUTHORS
-    Ayaka Uehara
+<h1>AUTHORS</h1>
+    Ayaka Uehara 上原彩香
 
-CHANGELOG
+<h1>CHANGELOG</h1>
     19/10/2017 1.0 Create Github repository
 	
-NEWS
-    
+<h1>NEWS</h1>
 
-COPYING	
+
+<h1>COPYING</h1>
 	MIT License
 
-GUGS	
 	
 	
