@@ -8,4 +8,4 @@ for i in range(0,10):
     sleep(0.2)
     som_led.value(1)
     sck_led.value(0)
-    sleep(0.2)
+    sleep(0.5) #changing the value of sleep time 
