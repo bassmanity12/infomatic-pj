@@ -9,7 +9,7 @@ for j in list:
     wlan.connect("itcollege")
     if not wlan.isconnected():
           print ('Connecting ...itcollege')
-          sleep(2.0)
+          sleep(5.0) #added the sleeptime in your LED 
     else:
           print ('connected')
           goto .end
